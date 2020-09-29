@@ -1,0 +1,22 @@
+---
+title: "week6"
+author: "Jenna Mulvihill"
+date: "9/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+"I'm learning to use GitHub...BOOM"
+```
+```{r}
+2 + 5
+```
+
+```{r}
+20 /5
+```
+
